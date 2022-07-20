@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    margin-left: 100px;
+    margin-top: 50px;
+    position: sticky;
+}
+
+
+
+.container {
+    position: relative;
+    left: 100px;
+    top: 200px;
+
+}
+
+.container .in {
+    position: relative;
+    bottom: 280px;
+    left: 300px;
+}
+
+.container .in img {
+    margin-bottom: 30px;
+}
+
+.container .in h6 {
+    font-size: 30px;
+}
